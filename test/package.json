@@ -12,6 +12,9 @@
   "author": "Warriors Life",
   "license": "SEE LICENSE IN ../LICENSE",
   "private": "true",
+  "dependencies": {
+	"warriors-life-template-js": "file:../src"
+  },
   "devDependencies": {
     "cross-env": "^7.0.3",
     "jest": "^29.5.0"
